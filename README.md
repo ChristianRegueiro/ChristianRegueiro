@@ -1,4 +1,5 @@
 # @ChristianRegueiro
+### Desarrollador WEB Full-Stack
 - Ciclo Medio SMR
 - Ciclo Superior DAW
 
